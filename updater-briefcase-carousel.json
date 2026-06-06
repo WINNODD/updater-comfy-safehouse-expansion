@@ -1,5 +1,5 @@
 {
-    "version": "1.2.0",
-    "changelog": "- Bug fix.",
-    "url": "https://github.com/WINNODD/Briefcase-Carousel/releases/download/1.2.0/BriefcaseCarousel.zip"
+    "version": "1.3.0",
+    "changelog": "- Add Tactician's Briefcase from the new DLC pack.\n  - New feature: You can open and close the briefcase you are inspecting.",
+    "url": "https://github.com/WINNODD/Briefcase-Carousel/releases/download/1.3.0/BriefcaseCarousel.zip"
 }
