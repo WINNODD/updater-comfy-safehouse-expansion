@@ -1,5 +1,5 @@
 {
-    "version": "2.1.0",
-    "changelog": "**New Features/新特性**\n- Suspects can be hidden in containers. 嫌疑人可以随意藏尸。\n- No non-target kills Merces penalty. 非目标击杀不扣钱。\n- Reversed non-target kills Merces penalty. 非目标击杀加钱。\n- Merces never halve or reset after failing missions or switching Hardcore. 任务失败或切换硬核模式不会扣钱。\n- Amount of targets in Territory Takedown randomized from 3-5. 区域清剿的目标数量在3到5之间随机。\n**Removed Feature/移除特性**\n- Amount of suspects in Showdown is 0. 决战的嫌疑人数量为0。",
-    "url": "https://github.com/WINNODD/Rogueless-Freelancer/releases/download/2.1.0/Rogueless-Freelancer.zip"
+    "version": "2.1.1",
+    "changelog": "Fix item lost issue.",
+    "url": "https://github.com/WINNODD/Rogueless-Freelancer/releases/download/2.1.1/Rogueless-Freelancer.zip"
 }
